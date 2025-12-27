@@ -2,7 +2,7 @@
 
  Heart Disease Prediction & Analysis
 
-This project is a **Data Analysis & Machine Learning project** on the UCI Heart Disease dataset.  
+This project is a **Data Analysis project** on the Heart Disease dataset.  
 It covers data preprocessing, visualization, feature analysis, and predictive modeling using **Logistic Regression** and **Random Forest**.
 
 ## Features
