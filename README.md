@@ -16,7 +16,7 @@ It covers data preprocessing, visualization, feature analysis, and predictive mo
 - Feature importance analysis
 - Confusion matrix and ROC curve visualization
 
-##  Technologies
+##  libraries 
 - Python, Pandas, NumPy
 - Matplotlib, Seaborn
 - Scikit-learn (LogisticRegression, RandomForestClassifier)
